@@ -1,11 +1,12 @@
-#Windows 10 SuperLite
-#https://filecr.com/windows/windows-10-lite-version/
+Windows 10 SuperLite
+https://filecr.com/windows/windows-10-lite-version/
 
-#Check Command (GPT or MBR)
-#diskpart
-#list disk
+Check Command (GPT or MBR)
+diskpart
+list disk
 
-#PowerShell Check Command (GPT or MBR)
+PowerShell Check Command (GPT or MBR)
 
-#Get-Disk | Select-Object Number, FriendlyName, PartitionStyle, OperationalStatus, Size
+Get-Disk | Select-Object Number, FriendlyName, PartitionStyle, OperationalStatus, Size
+
 
