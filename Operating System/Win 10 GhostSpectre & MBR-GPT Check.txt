@@ -4,7 +4,7 @@ https://filecr.com/windows/windows-10-lite-version/
 Refus Bootable USB Creator
 https://rufus.ie/en/
 
-Check Command (GPT or MBR)
+Command Prompt Check Command (GPT or MBR)
 diskpart
 list disk
 
@@ -18,6 +18,7 @@ MBR (Master Boot Record)
 'Boot support: Works with Legacy BIOS boot.'
 GPT (GUID Partition Table)
 'Boot support: Works with UEFI boot.'
+
 
 
 
