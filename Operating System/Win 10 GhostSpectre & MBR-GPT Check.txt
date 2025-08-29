@@ -1,6 +1,9 @@
 Windows 10 SuperLite
 https://filecr.com/windows/windows-10-lite-version/
 
+Refus Bootable USB Creator
+https://rufus.ie/en/
+
 Check Command (GPT or MBR)
 diskpart
 list disk
@@ -8,5 +11,6 @@ list disk
 PowerShell Check Command (GPT or MBR)
 
 Get-Disk | Select-Object Number, FriendlyName, PartitionStyle, OperationalStatus, Size
+
 
 
