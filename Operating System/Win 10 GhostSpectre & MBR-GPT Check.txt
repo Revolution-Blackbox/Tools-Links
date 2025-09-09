@@ -3,6 +3,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 Windows 10 SuperLite
 https://filecr.com/windows/windows-10-lite-version/
+https://drive.google.com/file/d/1qVIF4o2YNGww388L0OkScz0ziSzpQCxj/view?usp=sharing
 
 Refus Bootable USB Creator
 https://rufus.ie/en/
@@ -21,6 +22,7 @@ MBR (Master Boot Record)
 'Boot support: Works with Legacy BIOS boot.'
 GPT (GUID Partition Table)
 'Boot support: Works with UEFI boot.'
+
 
 
 
