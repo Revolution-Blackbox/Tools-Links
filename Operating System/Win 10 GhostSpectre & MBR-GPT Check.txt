@@ -1,3 +1,6 @@
+Windows 10 official Downloads
+https://www.microsoft.com/en-us/software-download/windows10
+
 Windows 10 SuperLite
 https://filecr.com/windows/windows-10-lite-version/
 
@@ -18,6 +21,7 @@ MBR (Master Boot Record)
 'Boot support: Works with Legacy BIOS boot.'
 GPT (GUID Partition Table)
 'Boot support: Works with UEFI boot.'
+
 
 
 
